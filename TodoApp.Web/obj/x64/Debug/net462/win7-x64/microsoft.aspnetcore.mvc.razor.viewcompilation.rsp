@@ -1,0 +1,12 @@
+C:\Users\Nilud\Documents\ServiceFabricAngular\service-fabric-angular1x\TodoApp.Web
+--output-path=obj\x64\Debug\net462\win7-x64\
+--application-name=TodoApp.Web
+--content-root=C:\Users\Nilud\Documents\ServiceFabricAngular\service-fabric-angular1x\TodoApp.Web
+--file=C:\Users\Nilud\Documents\ServiceFabricAngular\service-fabric-angular1x\TodoApp.Web\Views\Home\About.cshtml
+--file=C:\Users\Nilud\Documents\ServiceFabricAngular\service-fabric-angular1x\TodoApp.Web\Views\Home\Contact.cshtml
+--file=C:\Users\Nilud\Documents\ServiceFabricAngular\service-fabric-angular1x\TodoApp.Web\Views\Home\Index.cshtml
+--file=C:\Users\Nilud\Documents\ServiceFabricAngular\service-fabric-angular1x\TodoApp.Web\Views\Shared\Error.cshtml
+--file=C:\Users\Nilud\Documents\ServiceFabricAngular\service-fabric-angular1x\TodoApp.Web\Views\Shared\_Layout.cshtml
+--file=C:\Users\Nilud\Documents\ServiceFabricAngular\service-fabric-angular1x\TodoApp.Web\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\Nilud\Documents\ServiceFabricAngular\service-fabric-angular1x\TodoApp.Web\Views\_ViewImports.cshtml
+--file=C:\Users\Nilud\Documents\ServiceFabricAngular\service-fabric-angular1x\TodoApp.Web\Views\_ViewStart.cshtml

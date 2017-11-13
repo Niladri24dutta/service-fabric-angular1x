@@ -1,0 +1,1 @@
+C:\Users\Nilud\Documents\ServiceFabricAngular\service-fabric-angular1x\TodoApp\obj\x64\Debug\TodoApp.sfproj.CoreCompileInputs.cache
